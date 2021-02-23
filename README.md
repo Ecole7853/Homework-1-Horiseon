@@ -4,4 +4,4 @@ A webpage, dedicated to marketing web/browser services such as; search engine op
 
 https://ecole7853.github.io/Homework-1/
 
-![Screenshot](Homework-1\Homework-1-Horiseon\assets\images\screen.png)
+![Screenshot](./assets/images/screen.png)
